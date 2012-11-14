@@ -3,6 +3,10 @@ Sikuli Extension Guide
 
 this is the latest available version running with Sikuli X-1.0rc3+
 
+**BE AWARE:** at time of coming into existence late 2011, this was work in progress. 
+So there might be any bug or inconvenience. 
+<br />Feel free,to post a comment here. I will try to help you.
+
 Usage out of the box
 --------------------
 
@@ -26,3 +30,8 @@ Setup a java project in Netbeans or Eclipse using the src directory structure fr
 
 The libraries needed to setup a useable guide.jar can be found in the folder lib. <br />Additionally you need a valid library link to sikuli-script.jar.
 
+Known issues
+------------
+- images(target, image) gives an error. add a 3rd parameter as<br />
+images(target, image, side="choice")<br />
+where choice might be over, right, left, top or bottom

@@ -5,7 +5,7 @@ this is the latest available version running with Sikuli X-1.0rc3+
 
 **BE AWARE:** at time of coming into existence late 2011, this was work in progress. 
 So there might be any bug or inconvenience. 
-<br />Feel free,to post a comment here. I will try to help you.
+<br />Feel free, to post a comment here. I will try to help you.
 
 Usage out of the box
 --------------------

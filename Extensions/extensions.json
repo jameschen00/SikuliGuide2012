@@ -1,0 +1,14 @@
+{"extension-list":
+  {"extensions":
+    [
+      {
+        "name":"SikuliGuide",
+        "version":"0.1",
+        "description":"visual annotations",
+        "imgurl":"somewhere in the net",
+        "infourl":"somewhere in the net",
+        "jarurl":"somewhere in the net"
+      }
+    ]
+  }
+}

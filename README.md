@@ -1,7 +1,10 @@
 Sikuli Extension Guide
 ======================
 
-this is the latest available version running with Sikuli X-1.0rc3+
+this is the latest available version running with Sikuli X-1.0rc3.
+
+For the new version, to be used with Sikuli 1.0.0 and later, watch<br />
+https://github.com/RaiMan/SikuliX-Guide
 
 The license is the same as for Sikuli X.
 
